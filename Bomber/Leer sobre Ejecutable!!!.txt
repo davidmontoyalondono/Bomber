@@ -1,0 +1,3 @@
+" El Archivo ejecutable tiene algunos problemas de los cuales
+  desconozco la naturaleza, pero si se compila el código en netbeans
+  ejecuta perfecto. "  
